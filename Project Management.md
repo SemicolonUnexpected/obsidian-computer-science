@@ -4,6 +4,8 @@ Purpose of Project Management
 - Prevent projects not being completed on time
 - Ensure project scope encompasses what the customer requires/wants
 
+*The [[Project Manager]] works to fulfil these objectives*
+
 Why can software projects be difficult to manage
 - Not real
 - Difficult to estimate progress

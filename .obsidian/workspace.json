@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d02c396b85324af",
+        "id": "eb1079554902b9e8",
         "type": "tabs",
         "children": [
           {
-            "id": "abd8259a351f9e26",
+            "id": "74c641d8ac9dcde9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management.md",
+                "file": "Project Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Management"
+              "title": "Project Manager"
             }
           }
         ]
@@ -139,14 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management.md"
+                "file": "Project Manager.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Management"
+              "title": "Outline of Project Manager"
             }
           },
           {
-            "id": "a0e994be5434e681",
+            "id": "54feaf5286a3f04f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +173,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abd8259a351f9e26",
+  "active": "74c641d8ac9dcde9",
   "lastOpenFiles": [
-    "Project Management.md"
+    "Project Lifecycle.md",
+    "Project Manager.md",
+    "Project Management.md",
+    "Initiation.md",
+    "Pasted image 20241120183421.png",
+    "^Initiation.md",
+    "Wifi to ethernet.md",
+    "Rpi Router.md"
   ]
 }

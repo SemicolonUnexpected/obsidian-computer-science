@@ -10,7 +10,7 @@
 - Terms of Reference ^756ad2
 	- **Agreement/legal contract**
 	- Defines objectives/deliverables/scope
-	- Risk, issues, assumptions and constrains identified
+	- Risk, issues, assumptions and constraints identified
 
 Once approved project manager appointed
 ## Planning

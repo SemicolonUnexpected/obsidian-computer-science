@@ -3,7 +3,7 @@
 - Business opportunity identified and solution defined
 	- **Financing** discussed client
 	- Discussions with client and high level software person
-- Feasibility Study
+- Feasibility Study (Cost-Benefit-Analysis)
 	- Assess **alternative solutions**
 	- Looks at cost and other pros/cons
 	- Make **recommendation**

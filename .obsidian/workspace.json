@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management.md",
+                "file": "Resource Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Management"
+              "title": "Resource Management"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Methodologies.md",
+                "file": "Project Lifecycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Methodologies"
+              "title": "Project Lifecycle"
             }
           }
         ],
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,12 +190,16 @@
   },
   "active": "bf3b5272a83ab3e7",
   "lastOpenFiles": [
-    "Project Management.md",
-    "Design Methodologies.md",
-    "Project Lifecycle.md",
+    "Resource Management.md",
     "Project Manager.md",
+    "Project Management.md",
+    "Time Management.md",
+    "Scope Management.md",
     "Project Manager's 'Iron Triangle'.png",
     "Rpi Router.md",
+    "Project Lifecycle.md",
+    "DSDM.md",
+    "Design Methodologies.md",
     "Wifi to ethernet.md",
     "Initiation.md",
     "Pasted image 20241120183421.png",

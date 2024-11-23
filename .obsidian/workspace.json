@@ -8,16 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74c641d8ac9dcde9",
+            "id": "bf3b5272a83ab3e7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "A Level SSD/Time Management.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Time Management)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -159,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,24 +169,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74c641d8ac9dcde9",
+  "active": "c4f6471740fd6f5f",
   "lastOpenFiles": [
+    "Raspberry Pi/Wifi to ethernet.md",
+    "Raspberry Pi/Rpi Router.md",
+    "Raspberry Pi",
+    "Cambridge/Interesting Resources.md",
+    "Cambridge",
+    "A Level SSD/XP.md",
     "A Level SSD/Time Management.md",
+    "A Level SSD/Scope Management.md",
+    "A Level SSD/Resource Management.md",
     "A Level SSD/Project Manager.md",
     "A Level SSD/Project Manager's 'Iron Triangle'.png",
-    "A Level SSD/Resource Management.md",
-    "A Level SSD/XP.md",
-    "Cambridge/Interesting Resources.md",
-    "A Level SSD/DSDM.md",
-    "Cambridge",
-    "Raspberry Pi",
-    "A Level SSD/Design Methodologies.md",
-    "A Level SSD",
-    "A Level SSD/Scope Management.md",
     "A Level SSD/Project Management.md",
     "A Level SSD/Project Lifecycle.md",
-    "Raspberry Pi/Rpi Router.md",
-    "Raspberry Pi/Wifi to ethernet.md",
+    "A Level SSD/Design Methodologies.md",
+    "A Level SSD/DSDM.md",
+    "A Level SSD",
+    "XP.md",
+    "Project Lifecycle.md",
+    "Resource Management.md",
+    "Project Manager.md",
+    "Project Management.md",
+    "Time Management.md",
+    "Scope Management.md",
+    "Project Manager's 'Iron Triangle'.png",
+    "Rpi Router.md",
+    "DSDM.md",
+    "Design Methodologies.md",
+    "Wifi to ethernet.md",
     "Initiation.md",
     "Pasted image 20241120183421.png",
     "^Initiation.md"

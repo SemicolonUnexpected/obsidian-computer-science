@@ -15,5 +15,11 @@ Customers have limited budget and cost management affects project success
 		- Hardware
 		- Software
 - Estimate costs
-	- 
+	- Direct costs (specific to project)
+		- Labor rates
+		- Travel (visit client)
+		- Consumables (printer etc.)
+	- Indirect costs (specific to business/consultancy)
 - Contingency fund
+	- For unexpected events
+	- Amount depends on risk involved

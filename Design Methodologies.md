@@ -9,6 +9,3 @@ These are frameworks that are used to plan, structure and manage software develo
 
 - [[Waterfall]]
 - [[RAD]]
-
-
-

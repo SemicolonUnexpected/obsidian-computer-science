@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wifi to ethernet.md",
+                "file": "Cambridge/Interesting Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wifi to ethernet"
+              "title": "Interesting Resources"
             }
           }
         ]
@@ -149,8 +149,24 @@
   },
   "active": "273ac35d4d0f3bdb",
   "lastOpenFiles": [
-    "Rpi Router.md",
+    "Raspberry Pi/Rpi Router.md",
+    "Raspberry Pi/Wifi to ethernet.md",
     "Wifi to ethernet.md",
+    "Raspberry Pi",
+    "Cambridge/Interesting Resources.md",
+    "Cambridge",
+    "A Level SSD/XP.md",
+    "A Level SSD/Time Management.md",
+    "A Level SSD/Scope Management.md",
+    "A Level SSD/Resource Management.md",
+    "A Level SSD/Project Manager.md",
+    "A Level SSD/Project Manager's 'Iron Triangle'.png",
+    "A Level SSD/Project Management.md",
+    "A Level SSD/Project Lifecycle.md",
+    "A Level SSD/Design Methodologies.md",
+    "A Level SSD/DSDM.md",
+    "A Level SSD",
+    "Rpi Router.md",
     "Project Lifecycle.md",
     "Project Management.md",
     "Project Manager.md"

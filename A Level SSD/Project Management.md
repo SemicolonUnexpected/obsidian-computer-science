@@ -5,7 +5,7 @@
 - Prevent projects not being completed on time
 - Ensure project [[Scope Management|scope]] encompasses what the customer requires/wants
 
-*The [[Project Manager]] works to fulfil these objectives*
+*The [[Project Manager]] works to fulfill these objectives*
 
 ## Why can software projects be difficult to manage
 

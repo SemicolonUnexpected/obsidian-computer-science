@@ -25,4 +25,3 @@
 - **Compare** progress with estimates
 - Corrective action
 	- Add more staff (too much is difficult to coordinate)
-

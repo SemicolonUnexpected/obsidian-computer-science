@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb1079554902b9e8",
+        "id": "52a6f4b5083b2588",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3b5272a83ab3e7",
+            "id": "499973a71ff25de8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "A Level SSD/RAD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RAD"
             }
           }
         ]
@@ -135,28 +139,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Methodologies.md"
+                "file": "A Level SSD/RAD.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Methodologies"
-            }
-          },
-          {
-            "id": "54feaf5286a3f04f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of RAD"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,42 +160,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "c4f6471740fd6f5f",
   "lastOpenFiles": [
+    "A Level SSD/JAD.md",
+    "A Level SSD/Stakeholders.md",
+    "A Level SSD/Project Manager.md",
+    "A Level SSD/CASE.md",
+    "A Level SSD/RAD.md",
+    "A Level SSD/Waterfall.md",
+    "A Level SSD/Design Methodologies.md",
+    "A Level SSD/Agile.md",
+    "A Level SSD/Communication.md",
+    "().md",
+    "A Level SSD/Configuration Management.md",
+    "A Level SSD/Time Management.md",
+    "A Level SSD/Scope Management.md",
+    "A Level SSD/Risk management.md",
+    "A Level SSD/PERT Chart.md",
+    "A Level SSD/Project Management.md",
+    "A Level SSD/Gantt Chart.md",
+    "A Level SSD/Project Manager's 'Iron Triangle'.png",
+    "A Level SSD/Project Quality.md",
+    "A Level SSD/Test.md",
+    "Test.md",
+    "Untitled.md",
+    "A Level SSD/XP.md",
+    "A Level SSD/DSDM.md",
+    "A Level SSD/Project Lifecycle.md",
     "Raspberry Pi/Wifi to ethernet.md",
     "Raspberry Pi/Rpi Router.md",
     "Raspberry Pi",
-    "Cambridge/Interesting Resources.md",
     "Cambridge",
-    "A Level SSD/XP.md",
-    "A Level SSD/Time Management.md",
-    "A Level SSD/Scope Management.md",
-    "A Level SSD/Resource Management.md",
-    "A Level SSD/Project Manager.md",
-    "A Level SSD/Project Manager's 'Iron Triangle'.png",
-    "A Level SSD/Project Management.md",
-    "A Level SSD/Project Lifecycle.md",
-    "A Level SSD/Design Methodologies.md",
-    "A Level SSD/DSDM.md",
     "A Level SSD",
-    "XP.md",
-    "Project Lifecycle.md",
-    "Resource Management.md",
-    "Project Manager.md",
-    "Project Management.md",
-    "Time Management.md",
-    "Scope Management.md",
     "Project Manager's 'Iron Triangle'.png",
-    "Rpi Router.md",
-    "DSDM.md",
-    "Design Methodologies.md",
-    "Wifi to ethernet.md",
-    "Initiation.md",
-    "Pasted image 20241120183421.png",
-    "^Initiation.md"
+    "Pasted image 20241120183421.png"
   ]
 }
